@@ -12,14 +12,14 @@ import javax.servlet.http.HttpSession;
 /**
  * Servlet implementation class Test
  */
-@WebServlet("/Test")
-public class Test extends HttpServlet {
+@WebServlet("/TestFormulaire")
+public class TestFormulaire extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public Test() {
+    public TestFormulaire() {
         super();
         // TODO Auto-generated constructor stub
     }
